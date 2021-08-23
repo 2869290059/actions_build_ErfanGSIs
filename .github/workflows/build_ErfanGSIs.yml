@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://91io.cn/s/jvVvPcb
+  ROM_URL: https://bigota.d.miui.com/8.11.22/miui_MI5_8.11.22_f9ead04910_8.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai

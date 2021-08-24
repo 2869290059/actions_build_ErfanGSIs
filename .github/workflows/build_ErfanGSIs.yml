@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://36-152-212-1.ksyungslb.com/bigota.d.miui.com/V11.0.6.0.OCKCNXM/miui_HM5A_V11.0.6.0.OCKCNXM_65b36755c0_8.1.zip?ksy_gslb_referer=https%3A%2F%2Fwww.miui.com%2F
-  ROM_NAME: MIUI
+  ROM_URL: https://ip1592183223.mobgslb.tbcache.com/Firmware/Flyme/16xs/8.1.5.0/cn/20210419193241/b944fb5e/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=3b977403094067d74fff323d1752576754c1f47404bf6302&ali_redirect_ex_tmining_ts=1629770580&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_NAME: Flyme
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
